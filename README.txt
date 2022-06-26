@@ -1,4 +1,4 @@
-This is personal website of Aishwarya Iyer.
+This is a personal website of Aishwarya Iyer.
 
 
 Credits:
