@@ -4,7 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-User-agent: AdsBot-Google
-Disallow: /
-
 Sitemap: https://aishaiyer.github.io/sitemap.xml
