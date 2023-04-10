@@ -7,7 +7,7 @@ Credits:
 		html5up.net | @ajlkn
 
 	Images:
-		Iyer et al. 2016, Iyer & Line 2020, Iyer et al. (submitted), Access Network
+		Iyer et al. 2016, Iyer & Line 2020, Iyer et al. 2023, Access Network
 
 	Icons:
 		Font Awesome (fontawesome.io)
